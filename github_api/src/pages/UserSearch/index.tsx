@@ -1,7 +1,5 @@
 import axios from 'axios';
-import ResultCard from 'components/ResultCard';
 import { useState } from 'react';
-import { Link } from 'react-router-dom';
 
 import './styles.css';
 
